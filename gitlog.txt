@@ -1,3 +1,15 @@
+commit 0af09f71b2a088e9698a3feb9f70a80ee447d45d
+Author: Justin Hoang <justinhoang@mymail.mines.edu>
+Date:   Tue Feb 15 15:02:45 2022 -0700
+
+    added explanation for commits
+
+commit bfc176f6b8caa2c5ca178ea73640a742b8704b76
+Author: Joshua Munich Teves <teves@mines.edu>
+Date:   Tue Feb 15 14:58:42 2022 -0700
+
+    Added gitlog.txt
+
 commit 39335f255bfd771b899abc889abfd216aa7f8a91
 Author: Justin Hoang <72476123+suasuasuasuasua@users.noreply.github.com>
 Date:   Tue Feb 15 14:57:49 2022 -0700
