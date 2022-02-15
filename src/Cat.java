@@ -27,10 +27,10 @@ public class Cat {
 		int x=catX;
 		int y=catY;
 		// Draw the head
-		g2.setColor(Color.brown); // changed from black to brown
+		g2.setColor(Color.gray); // changed cat skin color from black to gray
 		g2.fillOval(x, y, HEAD_DIMENSION, HEAD_DIMENSION);
 		// Draw the eyes
-		g2.setColor(Color.blue);
+		g2.setColor(Color.blue); // changed cat eye color from green to blue
 		x = catX + EYE_X; 
 		y = catY + EYE_Y;
 		g2.fillOval(x, y, EYE_WIDTH, EYE_HEIGHT);
