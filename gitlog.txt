@@ -1,0 +1,63 @@
+commit 39335f255bfd771b899abc889abfd216aa7f8a91
+Author: Justin Hoang <72476123+suasuasuasuasua@users.noreply.github.com>
+Date:   Tue Feb 15 14:57:49 2022 -0700
+
+    changed cat mouth from pink to red
+
+commit 05d6bc1ac3e9321891eb081ea7d86a9a7355c88c
+Author: Joshua Munich Teves <teves@mines.edu>
+Date:   Tue Feb 15 14:56:45 2022 -0700
+
+    Changed head dimension from 100 to 50 (Driver: Josh, Navigator: Justin
+
+commit e7e8fe03ed2ef3dbba775b5c7b9129c79a331852
+Author: Joshua Munich Teves <teves@mines.edu>
+Date:   Tue Feb 15 14:55:28 2022 -0700
+
+    Corrected cat color from brown to gray, added additional comments (Driver: Josh, Navigator: Justin)
+
+commit 91034daf14824e4d412fafd7f63f62594c92a83f
+Author: Justin Hoang <72476123+suasuasuasuasua@users.noreply.github.com>
+Date:   Tue Feb 15 14:52:49 2022 -0700
+
+    Changed color of cat head
+
+commit 0b553622784abcaa9c5c00b3e12fb53dff470460
+Merge: 847ded3 a8cb095
+Author: Joshua Munich Teves <teves@mines.edu>
+Date:   Tue Feb 15 14:47:49 2022 -0700
+
+    Merge branch 'main' of https://github.com/tevesjl/C11A-1-GIT-on-GITHub
+    Josh: changed eye color, Justin: changed eye height
+
+commit 847ded36e8cc01ee4829d0aafa2c6d412d62c621
+Author: Joshua Munich Teves <teves@mines.edu>
+Date:   Tue Feb 15 14:47:41 2022 -0700
+
+    Changed cat eye color to blue (Driver: Josh, navigator: Justin)
+
+commit a8cb09593ba5a658eea05affe8eeda697463c289
+Author: Justin Hoang <72476123+suasuasuasuasua@users.noreply.github.com>
+Date:   Tue Feb 15 14:46:11 2022 -0700
+
+    Update Cat.java
+
+commit 31890eacd611040568a1a388138ae136e8893252
+Author: Justin Hoang <justinhoang@mymail.mines.edu>
+Date:   Tue Feb 15 14:44:30 2022 -0700
+
+    testing changes from partner b
+    
+    updated README
+
+commit 9e9acf773797dce10bcfb8eb04a4ecfcaea2b1bc
+Author: Joshua Munich Teves <teves@mines.edu>
+Date:   Tue Feb 15 14:39:36 2022 -0700
+
+    Title to README.md
+
+commit e7ffdec2717450ce14f6e2ca2d98e949a99c3083
+Author: Joshua Munich Teves <teves@mines.edu>
+Date:   Tue Feb 15 14:35:59 2022 -0700
+
+    Initial commit
